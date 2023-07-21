@@ -1,5 +1,5 @@
 # script
-writing a test script for an API in postman, the test is filtering api responses based on the JSON data, in this case its for the type (one of the key-value pairs in the json data).
+writing a test script for an API in postman, the test is checking to see the api responses based on the JSON data, in this case its for the type (one of the key-value pairs in the json data).
 
 Example:
 {
